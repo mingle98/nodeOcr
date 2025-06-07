@@ -3,6 +3,7 @@
 English | [简体中文](README.md)
 
 This is an OCR image recognition service developed based on Node.js and Tesseract OCR engine, supporting Simplified Chinese and English text recognition.
+![demo图片](./demo.png)
 
 ## Directory Structure
 

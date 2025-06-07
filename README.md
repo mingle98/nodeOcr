@@ -4,6 +4,8 @@
 
 这是一个基于 Node.js 和 Tesseract OCR 引擎开发的 OCR 图像识别服务，支持中文简体和英文文本识别。
 
+![demo图片](./demo.png)
+
 ## 目录结构
 
 ```
